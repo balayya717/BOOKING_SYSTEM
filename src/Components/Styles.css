@@ -1,0 +1,46 @@
+
+
+
+.numberEnter{
+    width: 500px;
+    height: 60px;
+    margin-right: 30px;
+    padding: 10px;
+}
+
+.otpEnter{
+    width: 150px;
+    height: 26px;
+    margin-right: 30px;
+    padding: 4px;
+}
+
+
+.headName{
+    font-family: 'Quicksand';
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.otpName{
+    font-family: 'Quicksand';
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 20px;
+}
+
+.otp-field{
+    margin-top: 70px;
+    text-align: center;
+}
+
+.otp-button{
+    height: 40px;
+    width: 100px;
+}
+
+.otp-input-filed{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
